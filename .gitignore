@@ -1,0 +1,10 @@
+.venv/
+.env
+pgdata/
+pg/
+*.log
+*.out
+_pg_portable.zip
+__pycache__/
+*.pyc
+.pytest_cache/

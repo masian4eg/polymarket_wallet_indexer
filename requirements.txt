@@ -1,0 +1,6 @@
+web3>=6.0,<8
+psycopg[binary]>=3.1
+python-dotenv>=1.0
+eth-abi>=5.0
+hexbytes>=0.3
+tqdm>=4.66
